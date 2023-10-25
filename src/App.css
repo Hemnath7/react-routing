@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.navLink {
+  margin: 10px;
+}
+
+.card {
+  width: 280px;
+  padding: 16px;
+  border: 1px solid #999;
+}
